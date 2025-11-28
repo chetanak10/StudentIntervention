@@ -1,6 +1,5 @@
 # Student Intervention
 
-## Project info
 
 ## What technologies are used for this project?
 
