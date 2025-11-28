@@ -9,7 +9,7 @@ import { User, Mail, School, Save } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const Profile = () => {
-  const [name, setName] = useState("Dr. Sarah Johnson");
+  const [name, setName] = useState("Ms chetana");
   const [email, setEmail] = useState("");
   const [school, setSchool] = useState("Community High School");
   const { toast } = useToast();
